@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M2UF2Activitats4i5", "M2UF2Activitats4i5\M2UF2Activitats4i5.csproj", "{9AC1CC71-379E-4865-8B9F-9ECA11954269}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M2UF2Activitats4i5", "M2UF2Activitats4i5\M2UF2Activitats4i5.csproj", "{9AC1CC71-379E-4865-8B9F-9ECA11954269}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M2UF2Activitats4i5Test", "..\M2UF2Activitats4i5Test\M2UF2Activitats4i5Test\M2UF2Activitats4i5Test.csproj", "{672A22FC-D661-4A60-8378-21600A181FC5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{9AC1CC71-379E-4865-8B9F-9ECA11954269}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9AC1CC71-379E-4865-8B9F-9ECA11954269}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9AC1CC71-379E-4865-8B9F-9ECA11954269}.Release|Any CPU.Build.0 = Release|Any CPU
+		{672A22FC-D661-4A60-8378-21600A181FC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{672A22FC-D661-4A60-8378-21600A181FC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{672A22FC-D661-4A60-8378-21600A181FC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{672A22FC-D661-4A60-8378-21600A181FC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
